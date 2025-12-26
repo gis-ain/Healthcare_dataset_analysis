@@ -41,7 +41,7 @@ The project demonstrates how SQL can be used to load, clean, and explore healthc
   
   *click the link above to preview the Dataset *
   
-  [Alt Kaggle](https://github.com/gis-ain/Healthcare_dataset_analysis/blob/main/Kaggle.jpg)
+  [Kaggle](https://github.com/gis-ain/Healthcare_dataset_analysis/blob/main/Kaggle.jpg)
   
   *click the link above to preview theDataset source reference*
 

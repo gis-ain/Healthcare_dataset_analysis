@@ -1,0 +1,12 @@
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/patiented.csv'
+INTO TABLE patients
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS
+(@name, Age, Gender, Blood_type, Medical_condition,@Date_of_Admission,
+ Doctor, Hospital, Insurance_provider, Billing_amount,
+ Room_number, Admission_type, @Discharge_date, Medication, Test_results)
+SET  date_of_admission = STR_TO_DATE(@C6, 'y-m-d'),
+Discharge_date = STR_TO_DATE(@C12, 'y-m-d');
+

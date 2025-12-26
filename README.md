@@ -29,7 +29,7 @@ The project demonstrates how SQL can be used to load, clean, and explore healthc
   **Excel** – *Initial inspection (reference only)*
 
 ## **REPOSITORY STRUCTURES**
-  Patiented.csv– *Original dataset*
+  Patiented.csv–*Original dataset*
   
   Load_data_in_mysql.txt– *SQL commands for loading data*
   
@@ -37,9 +37,13 @@ The project demonstrates how SQL can be used to load, clean, and explore healthc
   
   Healthcare_db_analysis.ipynb– *Exploratory analysis questions*
   
-  ![Excel](https://github.com/gis-ain/Healthcare_dataset_analysis/blob/main/Excel.jpg)– *EXCEL Dataset preview*
+  [Excel](https://github.com/gis-ain/Healthcare_dataset_analysis/blob/main/Excel.jpg)
   
-  ![Alt Kaggle](https://github.com/gis-ain/Healthcare_dataset_analysis/blob/main/Kaggle.jpg)– *Kaggle jpg-Dataset source reference*
+  *click the link above to preview the Dataset *
+  
+  [Alt Kaggle](https://github.com/gis-ain/Healthcare_dataset_analysis/blob/main/Kaggle.jpg)
+  
+  *click the link above to preview theDataset source reference*
 
 ## **KEY ANALYSIS AREAS**
   Patient Count: *Establish baseline size of the dataset*
